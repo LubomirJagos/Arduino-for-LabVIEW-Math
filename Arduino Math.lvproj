@@ -14,6 +14,8 @@
 		<Item Name="DevTests" Type="Folder">
 			<Item Name="Test Basic Function 1.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino Math/DevTests/Test Basic Function 1.vi"/>
 			<Item Name="Test Basic Function 2.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino Math/DevTests/Test Basic Function 2.vi"/>
+			<Item Name="Test Basic Function 3.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino Math/DevTests/Test Basic Function 3.vi"/>
+			<Item Name="Test Basic Function 4.vi" Type="VI" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino Math/DevTests/Test Basic Function 4.vi"/>
 		</Item>
 		<Item Name="Arduino Math.lvlib" Type="Library" URL="/&lt;vilib&gt;/Aledyne-TSXperts/Arduino Compatible Compiler for LabVIEW/addons/Arduino Math/Arduino Math.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
