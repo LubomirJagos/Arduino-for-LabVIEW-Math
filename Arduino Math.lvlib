@@ -19,14 +19,14 @@
 	<Item Name="Fdim.vi" Type="VI" URL="../Fdim.vi"/>
 	<Item Name="Floor.vi" Type="VI" URL="../Floor.vi"/>
 	<Item Name="Fma.vi" Type="VI" URL="../Fma.vi"/>
-	<Item Name="Fmax.vi" Type="VI" URL="../Fmax.vi"/>
+	<Item Name="Fmax.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW for Arduino Math Library/Fmax.vi"/>
 	<Item Name="Fmin.vi" Type="VI" URL="../Fmin.vi"/>
 	<Item Name="Fmod.vi" Type="VI" URL="../Fmod.vi"/>
 	<Item Name="Frexp.vi" Type="VI" URL="../Frexp.vi"/>
 	<Item Name="Hypot.vi" Type="VI" URL="../Hypot.vi"/>
 	<Item Name="Isfinite.vi" Type="VI" URL="../Isfinite.vi"/>
 	<Item Name="Isinf.vi" Type="VI" URL="../Isinf.vi"/>
-	<Item Name="Isnan.vi" Type="VI" URL="../Isnan.vi"/>
+	<Item Name="Isnan.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Universal Transcriptor/LabVIEW for Arduino Math Library/Isnan.vi"/>
 	<Item Name="Ldexp.vi" Type="VI" URL="../Ldexp.vi"/>
 	<Item Name="Log.vi" Type="VI" URL="../Log.vi"/>
 	<Item Name="Log10.vi" Type="VI" URL="../Log10.vi"/>
