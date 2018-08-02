@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-05 03:04:20" Modified_Date="2018-04-22 21:29:33" Creator="Lubomir Jagos" Comments="" ID="a75e6095da126dcc55dac268a457d504">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-06-05 03:04:20" Modified_Date="2018-08-02 13:02:29" Creator="Lubomir Jagos" Comments="" ID="61698ad61b7bd3c064c571465426c3ff">
   <Library_General_Settings>
     <Package_File_Name>LubomirJagos_lib_LabVIEW_for_Arduino_Math_Library</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -112,7 +112,7 @@
         <Path>VI package</Path>
       </Exclusions>
     </Source_Files>
-    <License_Agreement_Filepath/>
+    <License_Agreement_Filepath>..\license.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -728,7 +728,7 @@
         <Path>..\Fabs.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BEAAAA00ABA8ED595C4CA3D0BE51EB4D</GUID>
+      <GUID>A430C76CBF045D3B155E98AA0F26E80A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
