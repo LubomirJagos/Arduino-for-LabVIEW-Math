@@ -26,6 +26,7 @@
 	<Item Name="Hypot.vi" Type="VI" URL="../Hypot.vi"/>
 	<Item Name="Isfinite.vi" Type="VI" URL="../Isfinite.vi"/>
 	<Item Name="Isinf.vi" Type="VI" URL="../Isinf.vi"/>
+	<Item Name="Isnan.vi" Type="VI" URL="../Isnan.vi"/>
 	<Item Name="Ldexp.vi" Type="VI" URL="../Ldexp.vi"/>
 	<Item Name="Log.vi" Type="VI" URL="../Log.vi"/>
 	<Item Name="Log10.vi" Type="VI" URL="../Log10.vi"/>
@@ -43,5 +44,4 @@
 	<Item Name="Tanh.vi" Type="VI" URL="../Tanh.vi"/>
 	<Item Name="Trunc.vi" Type="VI" URL="../Trunc.vi"/>
 	<Item Name="Translator.vi" Type="VI" URL="../Translator.vi"/>
-	<Item Name="Isnan.vi" Type="VI" URL="../Isnan.vi"/>
 </Library>
